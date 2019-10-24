@@ -4,5 +4,5 @@
   <artifactId>zjq.redis</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>zjq.redis</name>
-  <description>zjq.redis_cache&amp;lock</description>
+  <description>zjq.redis_cache_lock</description>
 </project>
